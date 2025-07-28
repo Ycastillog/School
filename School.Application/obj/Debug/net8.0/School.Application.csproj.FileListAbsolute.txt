@@ -1,0 +1,12 @@
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\bin\Debug\net8.0\School.Application.deps.json
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\bin\Debug\net8.0\School.Application.dll
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\bin\Debug\net8.0\School.Application.pdb
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\obj\Debug\net8.0\School.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\obj\Debug\net8.0\School.Application.AssemblyInfoInputs.cache
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\obj\Debug\net8.0\School.Application.AssemblyInfo.cs
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\obj\Debug\net8.0\School.Application.csproj.CoreCompileInputs.cache
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\obj\Debug\net8.0\School.Application.sourcelink.json
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\obj\Debug\net8.0\School.Application.dll
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\obj\Debug\net8.0\refint\School.Application.dll
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\obj\Debug\net8.0\School.Application.pdb
+C:\_ItlaPractices\PracticesItla2\Tarea4\School\School.Application\obj\Debug\net8.0\ref\School.Application.dll
